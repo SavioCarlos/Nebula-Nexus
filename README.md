@@ -78,3 +78,9 @@ Isso irá iniciar a aplicação no modo de desenvolvimento. Abra [http://localho
 - Axios (para fazer requisições HTTP)
 - Styled Components (para estilização)
 - API da NASA
+
+
+
+Autores:
+-Sávio Carlos https://github.com/SavioCarlos
+-Victor Dala https://github.com/Victordplima
